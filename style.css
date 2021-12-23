@@ -1,0 +1,26 @@
+.navtom {
+  padding-bottom: 1.5rem;
+}
+.linknav:hover {
+  text-shadow: 0 0 10px black;
+}
+.navtop:hover {
+  text-shadow: 0 0 5px grey;
+}
+button {
+  background-color: red;
+}
+.sectioncontent {
+  margin-top: 4em;
+  margin-bottom: 4em;
+}
+.card:hover {
+  box-shadow: 0 0 5px black;
+}
+.card {
+  margin-top: 5px;
+  transition: 0.3s;
+}
+h1 {
+  text-shadow: 0 0 5px black;
+}
